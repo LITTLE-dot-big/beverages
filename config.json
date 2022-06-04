@@ -1,0 +1,18 @@
+{
+  "parameters":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/bevdabeverages",
+    "prod_uri": "mysql://root:@localhost/bevdabeverages",
+    "fb_url": "https://www.facebook.com/bevdabeverages",
+    "tw_url": "https://www.twitter.com/bevdabeverages",
+    "gh_url": "https://www.github.com/bevdabeverages",
+    "blog_name": "Beverages",
+    "tag_line": "",
+    "copyright": "Beverages - around since eternity",
+    "contact_Ranjit": "https://www.facebook.com/Ranjit",
+    "contact_Shubham": "",
+    "aboutus_subheading": "",
+    "gmail_Shubham": "skg4725@gmail.com"
+  }
+}
