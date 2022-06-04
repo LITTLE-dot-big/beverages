@@ -5,7 +5,7 @@ Steps:
 	from flask_sqlalchemy import SQLAlchemy
 	from datetime import datetime
 	import json
-2. Run tut1.py
+2. Run main.py
 3. Copy the highlighted shown in "2021-09-04.png" and paste it in any browser of your choice. Press enter.
 
 	Enjoy the website!!!
